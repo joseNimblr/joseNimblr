@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseNimblr
 
-You can also find me as @jomilto.
+You can also find me as @jomilto on Github.
 
 <!---
 joseNimblr/joseNimblr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
